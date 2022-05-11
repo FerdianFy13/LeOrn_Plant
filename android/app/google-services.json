@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63430277951",
+    "project_id": "leorn-plant",
+    "storage_bucket": "leorn-plant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63430277951:android:e7b52a0e3dd3c08162b18a",
+        "android_client_info": {
+          "package_name": "com.example.leorn_plant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63430277951-2mbm74ud19pb0e9gdc1ffh2hfi5c3va2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-hdl--c4yxbOhtkUHjr8EjM_kVF33C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63430277951-2mbm74ud19pb0e9gdc1ffh2hfi5c3va2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
