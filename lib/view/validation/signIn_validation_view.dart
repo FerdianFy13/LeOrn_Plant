@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import
+
 import 'package:flutter/material.dart';
 import 'package:leorn_plant/controller/core/color_core_controller.dart';
 import 'package:leorn_plant/controller/validation/signin_validation_controller.dart';
@@ -137,8 +139,8 @@ class _SignInValidationState extends State<SignInValidation> {
                         borderRadius: BorderRadius.circular(20),
                         splashColor: Colors.teal.shade200,
                         onTap: () async {
-                          await AuthService.signIn(
-                              _emailController.text, _passwordController.text);
+                          // await AuthService.signIn(
+                          //     _emailController.text, _passwordController.text);
                           Navigator.push(
                             context,
                             MaterialPageRoute(

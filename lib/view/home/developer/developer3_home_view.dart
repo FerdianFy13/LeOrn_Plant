@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import
+
 import 'package:flutter/material.dart';
 import 'package:leorn_plant/controller/core/color_core_controller.dart';
 import 'package:leorn_plant/controller/home/developer/developer_home_controller.dart';
@@ -26,7 +28,7 @@ class Developer3HomeView extends StatelessWidget {
               borderRadius: BorderRadius.circular(20),
               splashColor: Colors.teal.shade200,
               onTap: () {
-                AuthService.signOut();
+                // AuthService.signOut();
                 Navigator.push(
                   context,
                   MaterialPageRoute(
